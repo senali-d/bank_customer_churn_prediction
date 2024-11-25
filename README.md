@@ -28,6 +28,8 @@ By developing predictive models to mitigate churn, banks can efficiently allocat
 
 > https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset
 
+10,000 data records were used to train the model.
+
 This dataset is for ABC Multistate bank with following columns:
 
 1. customer_id

@@ -76,6 +76,7 @@ docker run -it --rm -p 9696:9696 bank-customer-churn
 4. Test the model
 
 ```
+pipenv shell
 python predict-test.py 
 ```
 

@@ -88,3 +88,7 @@ If setup is correct, the following output should be displayed:
 {'churn': True, 'churn_probability': 0.683151062071004}
 ```
 
+## Demo
+
+https://github.com/user-attachments/assets/bbdbd901-d816-4e91-9e0f-8a6dab8e7eed
+

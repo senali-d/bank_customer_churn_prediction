@@ -70,7 +70,7 @@ docker build -t bank-customer-churn .
 3. Run the Docker container from the created image
 
 ```
-docker run -it --rm bank-customer-churn
+docker run -it --rm -p 9696:9696 bank-customer-churn
 ```
 
 4. Test the model
